@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/araromi-enoch-697b9119b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://medium.com/@araromienoch1999"><img src="https://img.shields.io/badge/Medium-My_Channel-green?style=for-the-badge&logo=medium"></a>
-  <a href="mailto:araromienoch1999@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:araromienoch1999@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
